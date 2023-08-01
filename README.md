@@ -80,4 +80,4 @@ There is no license for this role.
 Author Information
 ------------------
 
-akakce-devops (devops@akakce.com)
+Yunus Emre Daysal (yunusemredaysal@gmail.com)
